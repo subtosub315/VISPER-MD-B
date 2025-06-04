@@ -34,7 +34,7 @@
     "link-preview-js": "latest",
     "megajs": "latest",
      "darksadas-yt-pornhub-scrape": "latest",
-    "mongoose": "latest",
+    "mongoose": "8.15.1",
     "node-cache": "latest",
     "node-fetch": "latest",
     "pino": "latest",
